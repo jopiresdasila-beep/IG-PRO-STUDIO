@@ -1,0 +1,7 @@
+{
+  "name": "Instagram Carousel Simulator",
+  "description": "A high-fidelity Instagram carousel simulator that supports up to 20 images with native scroll-snap behavior and UI accuracy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
